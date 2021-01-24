@@ -8,6 +8,10 @@
 
 1. [Axios 源码学习](https://github.com/kuikuiGe/blog/issues/2)
 
+### 业余笔记
+
+1. [基于 Ant Desing Vue，自定义部门人员树组件](https://github.com/kuikuiGe/blog/issues/3)
+
 #### 阅读笔记
 
 1. [笔记-如何创建动态变化的图标](https://github.com/kuikuiGe/blog/issues/3)
