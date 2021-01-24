@@ -10,7 +10,7 @@
 
 ### 业余笔记
 
-1. [基于 Ant Desing Vue，自定义部门人员树组件](https://github.com/kuikuiGe/blog/issues/3)
+1. [基于 Ant Desing Vue，自定义部门人员树组件](https://github.com/kuikuiGe/blog/issues/4)
 
 #### 阅读笔记
 
