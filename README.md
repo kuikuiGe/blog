@@ -1,16 +1,8 @@
-### 砥砺前行 未来可期
+### 介绍
 
 这里是 葛葵葵 的博客，所思所想汇总于此！
 
 ### 前端文章目录
-
-#### 源码学习
-
-1. [Axios 源码学习](https://github.com/kuikuiGe/blog/issues/2)
-
-### 业余笔记
-
-1. [基于 Ant Desing Vue，自定义部门人员树组件](https://github.com/kuikuiGe/blog/issues/4)
 
 #### 阅读笔记
 
