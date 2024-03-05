@@ -4,9 +4,14 @@
 
 ### 前端文章目录
 
+#### 自动化测试
+1. [Playwright实践系列-初识](https://github.com/kuikuiGe/blog/issues/5)
+
 #### 阅读笔记
 
 1. [笔记-如何创建动态变化的图标](https://github.com/kuikuiGe/blog/issues/3)
+
+
 
 ### 其他链接
 
