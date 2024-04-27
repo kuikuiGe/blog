@@ -4,6 +4,9 @@
 
 ### 前端文章目录
 
+### Flutter开发
+1. [在Mac上安装Flutter时遇到的问题](https://github.com/kuikuiGe/blog/issues/6)
+
 #### 自动化测试
 1. [Playwright实践系列-初识](https://github.com/kuikuiGe/blog/issues/5)
 
