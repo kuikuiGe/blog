@@ -4,17 +4,18 @@
 
 ### 前端文章目录
 
-### Flutter开发
-1. [在Mac上安装Flutter时遇到的问题](https://github.com/kuikuiGe/blog/issues/6)
+### Flutter 开发
+
+1. [在 Mac 上安装 Flutter 时遇到的问题](https://github.com/kuikuiGe/blog/issues/6)
+2. [Flutter 如何有效避免日期事件监听中的混乱问题](https://github.com/kuikuiGe/blog/issues/7)
 
 #### 自动化测试
-1. [Playwright实践系列-初识](https://github.com/kuikuiGe/blog/issues/5)
+
+1. [Playwright 实践系列-初识](https://github.com/kuikuiGe/blog/issues/5)
 
 #### 阅读笔记
 
 1. [笔记-如何创建动态变化的图标](https://github.com/kuikuiGe/blog/issues/3)
-
-
 
 ### 其他链接
 
