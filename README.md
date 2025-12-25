@@ -4,7 +4,11 @@
 
 ### 前端文章目录
 
-### Flutter 开发
+#### AI 工具与实践
+
+1. [使用 AI Workflow 规范化团队 Commit 信息：从混乱到有序](https://github.com/kuikuiGe/blog/issues/8)
+
+#### Flutter 开发
 
 1. [在 Mac 上安装 Flutter 时遇到的问题](https://github.com/kuikuiGe/blog/issues/6)
 2. [Flutter 如何有效避免日期事件监听中的混乱问题](https://github.com/kuikuiGe/blog/issues/7)
